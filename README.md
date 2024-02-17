@@ -1,5 +1,5 @@
 # SkyFlareAI-Frontend
-The In-Progress FrontEnd Application for the SkyFlareAI Chatbot Application
+The In-Progress React Frontend Application for the SkyFlareAI Chatbot Application
 
 #Installation
 ```bash
